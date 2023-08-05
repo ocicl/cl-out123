@@ -4,7 +4,7 @@ Bindings to libout123, allowing cross-platform audio output.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Shirakumo/cl-out123.git   |
-| commit  | 41771bf  |
+| commit  | 369fab2  |
 | systems | cl-out123 |
 |---------+-------------------------------------------|
 
